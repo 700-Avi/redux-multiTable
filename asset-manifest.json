@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MultiTable-redux-project/static/css/main.2121b691.css",
+    "main.js": "/MultiTable-redux-project/static/js/main.231c5b73.js",
+    "index.html": "/MultiTable-redux-project/index.html",
+    "main.2121b691.css.map": "/MultiTable-redux-project/static/css/main.2121b691.css.map",
+    "main.231c5b73.js.map": "/MultiTable-redux-project/static/js/main.231c5b73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2121b691.css",
+    "static/js/main.231c5b73.js"
+  ]
+}
